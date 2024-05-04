@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashish-Chokhani
-- 👀 I’m interested in ...competitive programming,software development
+- 👀 I’m interested in ...competitive programming,machine learning and software development
 - 🌱 I’m currently learning ...ECE 
 - 💞️ I’m looking to collaborate on ...project management
 - 📫 How to reach me ...mail me id:- ashish.chokhani@students.iiit.ac.in
