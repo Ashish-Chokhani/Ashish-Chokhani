@@ -10,7 +10,7 @@
   - **Miscellaneous:** Git, x86 Assembly, Verilog
 
 - 🌱 I’m currently learning ... Electronics and Communication Engineering (ECE)
-- 👀 I’m interested in ... Competitive Programming, Machine Learning, and Software Development
+- 👀 I’m interested in ... Competitive Programming, Machine Learning, Software Development and Web Development.
 - 💞️ I’m looking to collaborate on ... Projects involving Deep Learning (DL), Machine Learning (ML), and Full Stack Development
 - 📫 How to reach me ... Email: ashishchokhani2910@gmail.com
 
