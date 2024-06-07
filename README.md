@@ -16,7 +16,7 @@
 
 ### Profile Links
 - [GitHub](https://github.com/Ashish-Chokhani)
-- [LinkedIn]([https://linkedin.com/in/ashishchokhani](https://www.linkedin.com/in/ashish-chokhani-9991ba227/))
+- [LinkedIn](https://www.linkedin.com/in/ashish-chokhani-9991ba227/)
 - [Codeforces]([https://codeforces.com/profile/ashishchokhani](https://codeforces.com/profile/Cleverfox))
 
 Feel free to connect with me through the above platforms or reach out via email for any collaboration or project discussions!
