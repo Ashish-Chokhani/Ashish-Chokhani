@@ -60,24 +60,6 @@
   <br><br>
 </details>
 
-<!-- <details> --> 
-<summary><h2>📕 Top Projects I've Contributed To</h2></summary> --> 
-
-<p align="left">
-<!-- Example for future projects -->
-<a href="https://github.com/pallets/flask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
-</p>
-
-<!--  <p align="left"> --> 
-<!--  </p> --> 
-<!--  <br> --> 
-<!-- <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"> -->
-<!--  <a href="#"> --> 
-<!--  <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/> --> 
-<!--  </a> --> 
-<!--  <br><br> --> 
-<!-- </details> --> 
-
 <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -177,6 +159,24 @@
       <a href="#"><img alt="Stackoverflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="UpWork" src="https://img.shields.io/badge/UpWork-6FDA44?logo=Upwork&logoColor=white"></a>
   </p>
+</details>
+
+<details>
+<summary><h2>📕 Top Projects I've Contributed To</h2></summary> --> 
+
+<p align="left">
+<!-- Example for future projects -->
+<a href="https://github.com/Ashish-Chokhani/fyle-interview-intern-backend"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ashish-Chokhani&repo=fyle-interview-intern-backend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
+</p>
+
+<!--  <p align="left"> --> 
+<!--  </p> --> 
+<!--  <br> --> 
+<!-- <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"> -->
+<!--  <a href="#"> --> 
+<!--  <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/> --> 
+<!--  </a> --> 
+<!--  <br><br> --> 
 </details>
 
 <details open> 
