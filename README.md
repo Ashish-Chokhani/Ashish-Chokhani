@@ -67,8 +67,8 @@ Feel free to connect with me through the above platforms or reach out via email 
   <br><br>
 </details>
 
-<details> --> 
-<summary><h2>📕 Top Projects I've Contributed To</h2></summary> --> 
+<!-- <details> --> 
+<!-- <summary><h2>📕 Top Projects I've Contributed To</h2></summary> --> 
 
 <!--  <p align="left"> --> 
 <!-- Example for future projects -->
