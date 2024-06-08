@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning ... Electronics and Communication Engineering (ECE)
 - 👀 I’m interested in ... Competitive Programming, Machine Learning, Software Development and Web Development.
-- 💞️ I’m looking to collaborate on ... Projects involving Deep Learning (DL), Machine Learning (ML), and Full Stack Development
+- 💞️ I’m looking to collaborate on ... Projects involving Deep Learning (DL), Machine Learning (ML), and Full Stack web Development
 - 📫 How to reach me ... Email: ashishchokhani2910@gmail.com
 
 Feel free to connect with me through the above platforms or reach out via email for any collaboration or project discussions!
@@ -67,8 +67,8 @@ Feel free to connect with me through the above platforms or reach out via email 
   <br><br>
 </details>
 
-<!-- <details> --> 
-<!--  <summary><h2>📕 Top Projects I've Contributed To</h2></summary> --> 
+<details> --> 
+<summary><h2>📕 Top Projects I've Contributed To</h2></summary> --> 
 
 <!--  <p align="left"> --> 
 <!-- Example for future projects -->
