@@ -1,9 +1,7 @@
 # 👋 Hi, I’m Ashish Chokhani
 
 - 🎓 **Education:** 
-  - Third Year B.Tech in Electronics & Communication Engineering at IIIT Hyderabad
-
-- 🌱 I’m currently learning ... Electronics and Communication Engineering (ECE)
+  - Fourth Year B.Tech in Electronics & Communication Engineering at IIIT Hyderabad
 
 Feel free to connect with me through the above platforms or reach out via email for any collaboration or project discussions!
 
