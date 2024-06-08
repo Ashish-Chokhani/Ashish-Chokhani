@@ -43,7 +43,7 @@ Feel free to connect with me through the above platforms or reach out via email 
 
 <!-- Social badges section -->
 <p align="center">
-  <a href="https://github.com/Prakul-Agrawal?tab=repositories&sort=stargazers">
+  <a href="https://github.com/Ashish-Chokhani?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Prakul-Agrawal?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/Prakul-Agrawal?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Prakul-Agrawal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
