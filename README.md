@@ -35,19 +35,19 @@ Feel free to connect with me through the above platforms or reach out via email 
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://discordapp.com/users/740442954765959240" alt="Discord" title="Discord"><img width="32px" src="assets/discord.svg"/></a>
+  <a href="https://discordapp.com/users/ashishchokhani" alt="Discord" title="Discord"><img width="32px" src="assets/discord.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/prakul.agrawal?igshid=MzNlNGNkZWQ4Mg==" alt="Instagram" title="Instagram"><img width="32px" src="assets/instagram.svg"/></a>
+  <a href="https://www.instagram.com/ashishchokhani2910?igsh=b29yOHM5MmYxbWZj" alt="Instagram" title="Instagram"><img width="32px" src="assets/instagram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/prakul-agrawal-570b1927a" alt="LinkedIn" title="LinkedIn"><img width="32px" src="assets/linkedin.svg"/></a>
+  <a href="https://www.linkedin.com/in/ashish-chokhani-9991ba227" alt="LinkedIn" title="LinkedIn"><img width="32px" src="assets/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- <a href="https://discordapp.com/users/740442954765959240" alt="Web" title="Personal Website"> -->
   <a href="#"><img width="32px" src="assets/website.svg"/></a>
   <!-- </a> -->
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:prakulagrawal.2003@gmail.com" alt="Gmail" title="Email"><img width="32px" src="assets/gmail.svg"/></a>
+  <a href="mailto:ashishchokhani2910@gmail.com" alt="Gmail" title="Email"><img width="32px" src="assets/gmail.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://codeforces.com/profile/Prakul_Agrawal" alt="Codeforces" title="Codeforces"><img width="32px" src="assets/codeforces.svg"/></a>
+  <a href="https://codeforces.com/profile/Cleverfox" alt="Codeforces" title="Codeforces"><img width="32px" src="assets/codeforces.svg"/></a>
 </p>
 
 <br/>
