@@ -32,8 +32,6 @@
 
 <br/>
 
-- Feel free to connect with me through the above platforms or reach out via email for any collaboration or project discussions!
-
 <!-- Social badges section -->
 <p align="center">
   <a href="https://github.com/Ashish-Chokhani?tab=repositories&sort=stargazers">
@@ -41,6 +39,8 @@
   <a href="https://github.com/Ashish-Chokhani?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Ashish-Chokhani?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
+
+- Feel free to connect with me through the above platforms or reach out via email for any collaboration or project discussions!
 
 <details open> 
   <summary><h2>📘 My Top Projects</h2></summary>
