@@ -10,7 +10,7 @@ Feel free to connect with me through the above platforms or reach out via email 
 
 <p align="center">
   <a href="https://github.com/Ashish-Chokhani">
-    <img src="assets/Name.png" alt="Ashish Chokhani" /></a>
+    <img src="assets/name.png" alt="Ashish Chokhani" /></a>
 </p>
 
 <p align="center">
