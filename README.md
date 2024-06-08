@@ -35,7 +35,9 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Ashish-Chokhani?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-- Feel free to connect with me through the above platforms or reach out via email for any collaboration or project discussions!
+<p align="left">
+  🤝 Feel free to connect with me through the above platforms or reach out via email for any collaboration or project discussions!
+</p>
 
 <details open> 
   <summary><h2>🎓 Education</h2></summary>
