@@ -153,7 +153,6 @@ Feel free to connect with me through the above platforms or reach out via email 
       <a href="#"><img alt="Google Drive" src ="https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=white"></a>
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-      <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white"></a>
       <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
       <a href="#"><img alt="OneDrive" src="https://img.shields.io/badge/OneDrive-0078D4.svg?logo=microsoftonedrive&logoColor=white"></a>
   </p>
