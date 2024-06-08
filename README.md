@@ -61,7 +61,7 @@
 </details>
 
 <!-- <details> --> 
-<!-- <summary><h2>📕 Top Projects I've Contributed To</h2></summary> --> 
+<summary><h2>📕 Top Projects I've Contributed To</h2></summary> --> 
 
 <!--  <p align="left"> --> 
 <!-- Example for future projects -->
