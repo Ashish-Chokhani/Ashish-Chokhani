@@ -23,7 +23,7 @@ Feel free to connect with me through the above platforms or reach out via email 
 
 
 <p align="center">
-  <a href="https://github.com/Prakul-Agrawal">
+  <a href="https://github.com/Ashish-Chokhani">
     <img src="assets/Name.png" alt="Prakul Agrawal" /></a>
 </p>
 
