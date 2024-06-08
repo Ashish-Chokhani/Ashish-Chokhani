@@ -9,7 +9,7 @@ Feel free to connect with me through the above platforms or reach out via email 
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&random=false&width=435&lines=Ashish+Chokhani" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=3000&color=F75C7E&center=true&random=false&width=435&height=60&lines=Ashish+Chokhani" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
