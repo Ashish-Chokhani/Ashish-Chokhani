@@ -3,9 +3,6 @@
 - 🎓 **Education:** 
   - Fourth Year B.Tech in Electronics & Communication Engineering at IIIT Hyderabad
 
-Feel free to connect with me through the above platforms or reach out via email for any collaboration or project discussions!
-
-
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=3000&color=F75C7E&center=true&random=false&width=435&height=60&lines=Ashish+Chokhani" alt="Typing SVG" /></a>
 </p>
@@ -34,6 +31,8 @@ Feel free to connect with me through the above platforms or reach out via email 
 </p>
 
 <br/>
+
+- Feel free to connect with me through the above platforms or reach out via email for any collaboration or project discussions!
 
 <!-- Social badges section -->
 <p align="center">
