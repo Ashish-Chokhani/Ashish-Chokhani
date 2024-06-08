@@ -47,7 +47,6 @@
   <p align="left">
     Fourth Year B.Tech in Electronics & Communication Engineering at IIIT Hyderabad
   </p>
-  <br><br>
 </details>
 
 <details open> 
