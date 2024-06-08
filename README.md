@@ -193,7 +193,7 @@ Feel free to connect with me through the above platforms or reach out via email 
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-      <a href="#"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prakul-Agrawal's streak" src="https://streak-stats.demolab.com/?user=Prakul-Agrawal&theme=monokai-metallian&hide_border=true"/></a>
+      <a href="#"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ashish Chokhani's streak" src="https://streak-stats.demolab.com/?user=Ashish-Chokhani&theme=monokai-metallian&hide_border=true"/></a>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
