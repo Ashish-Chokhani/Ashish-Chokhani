@@ -37,8 +37,13 @@
 
 - Feel free to connect with me through the above platforms or reach out via email for any collaboration or project discussions!
 
-🎓 **Education:** 
-- Fourth Year B.Tech in Electronics & Communication Engineering at IIIT Hyderabad
+<details open> 
+  <summary><h2>🎓 Education</h2></summary>
+  <p align="left">
+    Fourth Year B.Tech in Electronics & Communication Engineering at IIIT Hyderabad
+  </p>
+  <br><br>
+</details>
 
 <details open> 
   <summary><h2>📘 My Top Projects</h2></summary>
