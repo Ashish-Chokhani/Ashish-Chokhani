@@ -36,7 +36,7 @@
 </p>
 
 <p align="left">
-  🤝 Feel free to connect with me through the above platforms or reach out via email for any collaboration or project discussions!
+  🤝 Feel free to connect with me through the above platforms for any collaboration or project discussions!
 </p>
 
 
