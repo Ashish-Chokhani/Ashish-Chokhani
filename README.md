@@ -10,7 +10,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://discordapp.com/users/ashishchokhani" alt="Discord" title="Discord"><img width="32px" src="assets/discord.svg"/></a>
+  <a href="https://discordapp.com/users/911538040441294848" alt="Discord" title="Discord"><img width="32px" src="assets/discord.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/ashishchokhani2910?igsh=b29yOHM5MmYxbWZj" alt="Instagram" title="Instagram"><img width="32px" src="assets/instagram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
