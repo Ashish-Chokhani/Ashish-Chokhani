@@ -5,7 +5,7 @@
 <p align="center">
   <!-- Typing SVG -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20Developer;Passionate%20about%20Python;Competitive%20Programmer;Data%20Science%20Explorer;4%2B%20years%20of%20coding%20experience;Commited%20%to%20Lifelong%20Learnings&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20Developer;Passionate%20about%20Python;Competitive%20Programmer;Data%20Science%20Explorer;4%2B%20years%20of%20coding%20experience;Commited%20to%20Lifelong%20Learnings&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
